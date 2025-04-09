@@ -2,26 +2,34 @@
 {
   "0":{
   "id":"1",
-  "name":"MUZANGALA TV",
+  "name":"RTG",
   "description":"1501",
-  "live_url":"https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8",
-  "thumbnail":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg",
+  "live_url":"http://69.64.57.208/rtg/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/M18yNjk1NzIyMTVf/rtguinee.jpg",
   "categorie":"SPORTS"
   },
   "1":{
   "id": "2",
-  "name": "TVI AFRICA",
+  "name": "ATV",
   "description": "1502",
-  "live_url": "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNjE4MTcyNzRf/tviAfrica.jpg",
+  "live_url": "https://guineetvdirect.online:3320/live/atvguineelive.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODA1MDY3MDJf/ATVGUINEA.jpeg",
   "categorie": "SPORTS"
   },
   "2":{
   "id": "3",
-  "name": "KK TV",
+  "name": "ESPACE TV",
   "description": "1503",
-  "live_url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/M18yOTM1NjYzODBf/kktv.jpg",
+  "live_url": "https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODMzMDg0MTZf/espace.jpg",
+  "categorie": "SPORTS"
+  },
+  "3":{
+  "id": "4",
+  "name": "KABACK TV",
+  "description": "1504",
+  "live_url": "https://guineetvdirect.online:3842/live/kabacktvlive.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODA1MDgwNjNf/kaback.png",
   "categorie": "SPORTS"
   }
 }
